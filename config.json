@@ -1,0 +1,6 @@
+{
+    "PORTS": [23355, 23389, 23390, 20089],
+    "THRESHOLD": 10,
+    "SCAN_DURATION": 60,
+    "SCAN_INTERVAL": 1
+}
